@@ -76,6 +76,14 @@ button.white{
     top: 0;
     left: 0;
 }
+.logo{
+    color: palevioletred;
+    padding-top: 20px;
+}
+#header h3:hover{
+    font-weight: 400;
+    transition: 0.3ms;
+}
 #navbar{
     display: flex;
     align-items: center;
